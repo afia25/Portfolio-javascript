@@ -55,7 +55,18 @@ We have used Agile Methodology for software process models. Agile process model 
 #### HomePage: 
 <p align="center"><img src="./img/2.png" alt="App Screenshot" style="height:370px; width:auto;"></p>
 <p align="center"><img src="./img/3.png" alt="App Screenshot" style="height:370px; width:auto;"></p>
+Note: In the home page, a user can see the running campaigns. 
 
+#### Details of a campaign:
+<p align="center"><img src="./img/4.png" alt="App Screenshot" style="height:370px; width:auto;"></p>
+<p align="center"><img src="./img/5.png" alt="App Screenshot" style="height:370px; width:auto;"></p>
+Note: A user can open a campaign and view the details of the campaign (Purpose, Amount want to rise, Amount they already raised etc)
+
+#### Signup Page for user:
+<p align="center"><img src="./img/6.png" alt="App Screenshot" style="height:370px; width:auto;"></p>
+
+#### Signup Page for Organization:
+<p align="center"><img src="./img/7.png" alt="App Screenshot" style="height:370px; width:auto;"></p>
 
 
 
