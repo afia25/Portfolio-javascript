@@ -4,8 +4,8 @@
 
 2. Requirement Analysis: Our platform will provide increased transparency, decentralization, smart contract automation, lower fees, and global reach. These project outputs can help organizations achieve their fundraising goals more effectively and efficiently. There are two types of requirements in our project.
    
-Basic Requirement: The basic requirements for our blockchain-based crowdfunding system can include the following:
-● User registration: Users should be able to create an account and provide their personal information, including their name, email address, and payment information. 
+Basic Requirement: The basic requirements for our blockchain-based crowdfunding system can include the following: <br>
+● User registration: Users should be able to create an account and provide their personal information, including their name, email address, and payment information. <br>
 ● Campaign submission: Campaign creators should be able to submit their crowdfunding campaigns and include information such as campaign description, funding goal, duration, and rewards for backers.
 
 ● Payment processing: The system should be able to handle payment processing securely using cryptocurrencies or fiat currencies.
