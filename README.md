@@ -14,17 +14,17 @@ Basic Requirement: The basic requirements for our blockchain-based crowdfunding 
 ● Platform fees: The system should allow the platform operator to charge fees for using the platform. <br>
 ● Reporting and analytics: The system should provide reporting and analytics functionality to allow campaign creators and the platform operator to track key metrics such as the success rate of crowdfunding campaigns. <br>
 
-Functional Requirements: Functional requirements for a blockchain-based crowdfunding system could include:
-● User authentication: The system should allow users to authenticate themselves to access their accounts and perform various actions within the system, such as creating and backing projects.
-● Campaign creation: The system should allow project creators to create and submit their crowdfunding projects, including details such as the project name, description, funding goal, duration, and rewards for backers.
-● Campaign browsing: The system should allow users to browse and search for campaigns based on various criteria, such as campaign category, funding goal, and duration.
-● Smart contract execution: The system should use smart contracts to automatically execute crowdfunding agreements, releasing funds to campaign creators only when specific conditions are met, such as the campaign reaching its funding goal.
-● Payment processing: The system should enable secure and transparent payment processing, allowing users to make payments using cryptocurrencies or fiat currencies.
-● Feedback and ratings: The system should allow users to provide feedback and ratings on projects and project creators, helping to build trust and transparency within the community.
-● User management: The system should allow platform operators to manage user accounts, including adding or removing users, modifying user details, and managing user roles and permissions.
-● Reporting and analytics: The system should provide reporting and analytics functionality to allow project creators and platform operators to track key metrics such as the success rate of crowdfunding campaigns, the number of backers, and the amount of funds raised.
+Functional Requirements: Functional requirements for a blockchain-based crowdfunding system could include: <br>
+● User authentication: The system should allow users to authenticate themselves to access their accounts and perform various actions within the system, such as creating and backing projects. <br>
+● Campaign creation: The system should allow project creators to create and submit their crowdfunding projects, including details such as the project name, description, funding goal, duration, and rewards for backers. <br>
+● Campaign browsing: The system should allow users to browse and search for campaigns based on various criteria, such as campaign category, funding goal, and duration. <br>
+● Smart contract execution: The system should use smart contracts to automatically execute crowdfunding agreements, releasing funds to campaign creators only when specific conditions are met, such as the campaign reaching its funding goal. <br>
+● Payment processing: The system should enable secure and transparent payment processing, allowing users to make payments using cryptocurrencies or fiat currencies. <br>
+● Feedback and ratings: The system should allow users to provide feedback and ratings on projects and project creators, helping to build trust and transparency within the community. <br>
+● User management: The system should allow platform operators to manage user accounts, including adding or removing users, modifying user details, and managing user roles and permissions. <br>
+● Reporting and analytics: The system should provide reporting and analytics functionality to allow project creators and platform operators to track key metrics such as the success rate of crowdfunding campaigns, the number of backers, and the amount of funds raised. <br>
 
-3. Methodology: MVC design pattern is a software architecture pattern that separates an application into three interconnected components: the model, the view, and the controller.
+3. Methodology: MVC design pattern is a software architecture pattern that separates an application into three interconnected components: the model, the view, and the controller. 
 
     Model: The model represents the data and business logic of your application. It manages the interaction with the blockchain and handles tasks such as project creation, donation management, and transaction processing. The model includes:
     Campaign Model: Manages the data and operations related to crowdfunding campaigns. It handles tasks such as creating new campaigns, updating campaign information, and retrieving campaign details.
