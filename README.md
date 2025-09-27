@@ -1,8 +1,8 @@
 # Crowdfunding-Platform-with-Integrated-Software-Testing
 
-1. Project Output: Sampradan (A Block-Chain based Crowdfunding Web Platform) will be a website where people can donate and get donations easily.
+**1. Project Output:** Sampradan (A Block-Chain based Crowdfunding Web Platform) will be a website where people can donate and get donations easily.
 
-2. Requirement Analysis: Our platform will provide increased transparency, decentralization, smart contract automation, lower fees, and global reach. These project outputs can help organizations achieve their fundraising goals more effectively and efficiently. There are two types of requirements in our project.
+**2. Requirement Analysis:** Our platform will provide increased transparency, decentralization, smart contract automation, lower fees, and global reach. These project outputs can help organizations achieve their fundraising goals more effectively and efficiently. There are two types of requirements in our project.
    
 Basic Requirement: The basic requirements for our blockchain-based crowdfunding system can include the following: <br>
 ● User registration: Users should be able to create an account and provide their personal information, including their name, email address, and payment information. <br>
