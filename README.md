@@ -53,7 +53,8 @@ We have used Agile Methodology for software process models. Agile process model 
 
 ### Final Result of Project:
 #### HomePage: 
-<p align="center"><img src="./img/2.png" alt="App Screenshot" style="height:400px; width:auto;"></p>
+<p align="center"><img src="./img/2.png" alt="App Screenshot" style="height:370px; width:auto;"></p>
+<p align="center"><img src="./img/3.png" alt="App Screenshot" style="height:370px; width:auto;"></p>
 
 
 
