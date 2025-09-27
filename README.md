@@ -68,7 +68,47 @@ Note: A user can open a campaign and view the details of the campaign (Purpose, 
 #### Signup Page for Organization:
 <p align="center"><img src="./img/7.png" alt="App Screenshot" style="height:370px; width:auto;"></p>
 
+#### Login Page:
+<p align="center"><img src="./img/8.png" alt="App Screenshot" style="height:370px; width:auto;"></p>
 
+#### Signup Process for Organization in Blockchain:
+<p align="center"><img src="./img/9.png" alt="App Screenshot" style="height:370px; width:auto;"></p>
 
+Note: Data of registration is stored on a block.
+<p align="center"><img src="./img/10.png" alt="App Screenshot" style="height:370px; width:auto;"></p>
 
+#### Verification Process for Public:
+<p align="center"><img src="./img/11.png" alt="App Screenshot" style="height:370px; width:auto;"></p>
 
+#### Create Campaign Section:
+<p align="center"><img src="./img/12.png" alt="App Screenshot" style="height:370px; width:auto;"></p>
+
+#### Donation System:
+<p align="center"><img src="./img/13.png" alt="App Screenshot" style="height:370px; width:auto;"></p>
+
+#### Payment Options:
+<p align="center"><img src="./img/14.png" alt="App Screenshot" style="height:370px; width:auto;"></p>
+
+Note: Donation is received through payment gateway. Also, Amount updated.
+<p align="center"><img src="./img/15.png" alt="App Screenshot" style="height:370px; width:auto;"></p>
+
+#### About Us Page:
+<p align="center"><img src="./img/16.png" alt="App Screenshot" style="height:370px; width:auto;"></p>
+<p align="center"><img src="./img/17.png" alt="App Screenshot" style="height:370px; width:auto;"></p>
+<p align="center"><img src="./img/18.png" alt="App Screenshot" style="height:370px; width:auto;"></p>
+
+#### Contact Us Page:
+<p align="center"><img src="./img/19.png" alt="App Screenshot" style="height:370px; width:auto;"></p>
+
+#### All Campaigns Page:
+<p align="center"><img src="./img/20.png" alt="App Screenshot" style="height:370px; width:auto;"></p>
+<p align="center"><img src="./img/21.png" alt="App Screenshot" style="height:370px; width:auto;"></p>
+
+#### Organization:
+<p align="center"><img src="./img/22.png" alt="App Screenshot" style="height:370px; width:auto;"></p>
+
+#### Search Campaigns:
+<p align="center"><img src="./img/23.png" alt="App Screenshot" style="height:370px; width:auto;"></p>
+<p align="center"><img src="./img/24.png" alt="App Screenshot" style="height:370px; width:auto;"></p>
+
+**Conclusion:** As the world is moving towards Web 3.0 and decentralized systems to solve their daily problems, it is important to test and build new alternative architectures that show us the ideology to provide innovative solutions. With the existing solutions in the crowdfunding world created and handled by intermediary corporations that have a say on various parameters of a campaign, the alternative solution based on peer-to-peer network handling the campaign transactions seems ripe. This project explores ways to remove intermediaries in a crowdfunding business use case. This was done with the help of smart contracts, written for the crowdfunding dapp application deployed in Ethereum blockchain, that guide the execution of a transaction. This interaction allows users to create and invest ether into campaigns that interest them. Without much effort campaign creators and campaign investors can perform their intended activities using the crowdfunding platform. There are new emerging blockchain platforms such as EOS, Stellar, Cardano and NEO that provide more language choices and platform configuration choices compared to Ethereum but these platforms haven’t proved themselves yet. EOS looks like a promising platform and in future this project can be moved to EOS if it proves to be a better choice than Ethereum.
