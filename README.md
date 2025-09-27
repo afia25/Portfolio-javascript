@@ -46,6 +46,14 @@ Figure 1: Model-View-Controller (MVC) <br>
 
 Figure 1 represents the modules involved in this project are Registration-Fundraiser, Registration-Funder, Service provider platform, Transaction platform, Blockchain creating and mining. <br>
 <p align="center"><img src="./img/uml.png" alt="App Screenshot" style="height:500px; width:auto;"></p>
+Figure 2: The UML diagram 
+
+### Software Process Model:
+We have used Agile Methodology for software process models. Agile process model is the best choice for blockchain-based crowdfunding platform. As it focuses on iterative development, collaboration, and flexibility. This methodology is well-suited for blockchain projects as it allows for frequent feedback and adjustments, which is necessary for developing a complex and constantly evolving technology like blockchain. We particularly used Scrum, which is an agile framework for managing and completing complex projects, particularly in software development. The framework is based on an iterative and incremental approach to project management, where the project is divided into smaller and more manageable parts, called sprints. The Scrum framework emphasizes flexibility, continuous improvement, and collaboration. By breaking down the project into smaller parts and regularly reviewing progress and feedback, the Scrum framework can help teams adapt to changing requirements and deliver high-quality products in a timely manner
+
+### Final Result of Project:
+#### HomePage: 
+<p align="center"><img src="./img/2.png" alt="App Screenshot" style="height:500px; width:auto;"></p>
 
 
 
