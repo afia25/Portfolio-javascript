@@ -45,7 +45,7 @@ MVC design pattern is a software architecture pattern that separates an applicat
 Figure 1: Model-View-Controller (MVC) <br>
 
 Figure 1 represents the modules involved in this project are Registration-Fundraiser, Registration-Funder, Service provider platform, Transaction platform, Blockchain creating and mining. <br>
-<p align="center"><img src="./img/uml.png" alt="App Screenshot" style="height:600px; width:auto;"></p>
+<p align="center"><img src="./img/uml.png" alt="App Screenshot" style="height:500px; width:auto;"></p>
 
 
 
