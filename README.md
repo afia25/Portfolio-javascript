@@ -23,3 +23,20 @@ Functional Requirements: Functional requirements for a blockchain-based crowdfun
 ● User management: The system should allow platform operators to manage user accounts, including adding or removing users, modifying user details, and managing user roles and permissions.
 ● Reporting and analytics: The system should provide reporting and analytics functionality to allow project creators and platform operators to track key metrics such as the success rate of crowdfunding campaigns, the number of backers, and the amount of funds raised.
 
+3. Methodology: MVC design pattern is a software architecture pattern that separates an application into three interconnected components: the model, the view, and the controller.
+
+    Model: The model represents the data and business logic of your application. It manages the interaction with the blockchain and handles tasks such as project creation, donation management, and transaction processing. The model includes:
+    Campaign Model: Manages the data and operations related to crowdfunding campaigns. It handles tasks such as creating new campaigns, updating campaign information, and retrieving campaign details.
+    Donation Model: Handles the donation-related operations, including accepting donations, managing donor information, and tracking the total amount raised for each project.
+    Transaction Model: Handles the processing transactions, verifying donations, and updating the ledger.
+
+    View: The view is responsible for presenting the data to the users and handling user interactions. In your case, the view will include various web pages and interfaces that allow users to browse projects, make donations, and view project updates. The view includes:
+    ProjectListingView: Displays a list of available projects, including their titles, descriptions, and funding progress. It allows users to browse through the projects and select one for donation.
+    DonationView: Provides a form or interface for users to enter donation details, such as the amount they want to contribute and the payment method they prefer.
+    ProjectDetailsView: Displays detailed information about a selected project, including updates from the project initiator, transaction history, and progress towards the funding goal.
+
+    Controller: The controller acts as an intermediary between the model and the view. It handles user input, updates the model accordingly, and ensures the appropriate view is displayed. The controller includes:
+    ProjectController: Manages the flow of information and actions related to projects. It handles tasks such as creating new projects, updating project information, and retrieving project details to display on the views.
+    DonationController: Handles user interactions related to donations, including accepting donation details from the view, updating the donation model, and processing the transaction using the transaction model.
+    ViewController: Controls the navigation between different views based on user actions, such as selecting a project, making a donation, or viewing project details.
+
