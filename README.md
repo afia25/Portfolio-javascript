@@ -4,8 +4,7 @@
 
 **2. Requirement Analysis:** Our platform will provide increased transparency, decentralization, smart contract automation, lower fees, and global reach. These project outputs can help organizations achieve their fundraising goals more effectively and efficiently. There are two types of requirements in our project.
    
-### Basic Requirement: 
-The basic requirements for our blockchain-based crowdfunding system can include the following: <br>
+**Basic Requirement:** The basic requirements for our blockchain-based crowdfunding system can include the following: <br>
 ● User registration: Users should be able to create an account and provide their personal information, including their name, email address, and payment information. <br>
 ● Campaign submission: Campaign creators should be able to submit their crowdfunding campaigns and include information such as campaign description, funding goal, duration, and rewards for backers.  <br>
 ● Payment processing: The system should be able to handle payment processing securely using cryptocurrencies or fiat currencies.  <br>
@@ -15,7 +14,7 @@ The basic requirements for our blockchain-based crowdfunding system can include 
 ● Platform fees: The system should allow the platform operator to charge fees for using the platform. <br>
 ● Reporting and analytics: The system should provide reporting and analytics functionality to allow campaign creators and the platform operator to track key metrics such as the success rate of crowdfunding campaigns. <br>
 
-Functional Requirements: Functional requirements for a blockchain-based crowdfunding system could include: <br>
+**Functional Requirements:** Functional requirements for a blockchain-based crowdfunding system could include: <br>
 ● User authentication: The system should allow users to authenticate themselves to access their accounts and perform various actions within the system, such as creating and backing projects. <br>
 ● Campaign creation: The system should allow project creators to create and submit their crowdfunding projects, including details such as the project name, description, funding goal, duration, and rewards for backers. <br>
 ● Campaign browsing: The system should allow users to browse and search for campaigns based on various criteria, such as campaign category, funding goal, and duration. <br>
@@ -25,20 +24,21 @@ Functional Requirements: Functional requirements for a blockchain-based crowdfun
 ● User management: The system should allow platform operators to manage user accounts, including adding or removing users, modifying user details, and managing user roles and permissions. <br>
 ● Reporting and analytics: The system should provide reporting and analytics functionality to allow project creators and platform operators to track key metrics such as the success rate of crowdfunding campaigns, the number of backers, and the amount of funds raised. <br>
 
-3. Methodology: MVC design pattern is a software architecture pattern that separates an application into three interconnected components: the model, the view, and the controller. 
+### Methodology: 
+MVC design pattern is a software architecture pattern that separates an application into three interconnected components: the model, the view, and the controller. 
 
-    Model: The model represents the data and business logic of your application. It manages the interaction with the blockchain and handles tasks such as project creation, donation management, and transaction processing. The model includes: <br>
-    Campaign Model: Manages the data and operations related to crowdfunding campaigns. It handles tasks such as creating new campaigns, updating campaign information, and retrieving campaign details. <br>
-    Donation Model: Handles the donation-related operations, including accepting donations, managing donor information, and tracking the total amount raised for each project. <br>
-    Transaction Model: Handles the processing transactions, verifying donations, and updating the ledger.
+**Model:** The model represents the data and business logic of your application. It manages the interaction with the blockchain and handles tasks such as project creation, donation management, and transaction processing. The model includes: <br>
+    **Campaign Model:** Manages the data and operations related to crowdfunding campaigns. It handles tasks such as creating new campaigns, updating campaign information, and retrieving campaign details. <br>
+    **Donation Model:** Handles the donation-related operations, including accepting donations, managing donor information, and tracking the total amount raised for each project. <br>
+    **Transaction Model:** Handles the processing transactions, verifying donations, and updating the ledger.
 
-    View: The view is responsible for presenting the data to the users and handling user interactions. In your case, the view will include various web pages and interfaces that allow users to browse projects, make donations, and view project updates. The view includes: <br>
-    ProjectListingView: Displays a list of available projects, including their titles, descriptions, and funding progress. It allows users to browse through the projects and select one for donation. <br>
-    DonationView: Provides a form or interface for users to enter donation details, such as the amount they want to contribute and the payment method they prefer. <br>
-    ProjectDetailsView: Displays detailed information about a selected project, including updates from the project initiator, transaction history, and progress towards the funding goal.
+**View:** The view is responsible for presenting the data to the users and handling user interactions. In your case, the view will include various web pages and interfaces that allow users to browse projects, make donations, and view project updates. The view includes: <br>
+    **ProjectListingView:** Displays a list of available projects, including their titles, descriptions, and funding progress. It allows users to browse through the projects and select one for donation. <br>
+    **DonationView:** Provides a form or interface for users to enter donation details, such as the amount they want to contribute and the payment method they prefer. <br>
+    **ProjectDetailsView:** Displays detailed information about a selected project, including updates from the project initiator, transaction history, and progress towards the funding goal.
 
-    Controller: The controller acts as an intermediary between the model and the view. It handles user input, updates the model accordingly, and ensures the appropriate view is displayed. The controller includes: <br>
-    ProjectController: Manages the flow of information and actions related to projects. It handles tasks such as creating new projects, updating project information, and retrieving project details to display on the views. <br>
-    DonationController: Handles user interactions related to donations, including accepting donation details from the view, updating the donation model, and processing the transaction using the transaction model. <br>
-    ViewController: Controls the navigation between different views based on user actions, such as selecting a project, making a donation, or viewing project details.
+**Controller:** The controller acts as an intermediary between the model and the view. It handles user input, updates the model accordingly, and ensures the appropriate view is displayed. The controller includes: <br>
+    **ProjectController:** Manages the flow of information and actions related to projects. It handles tasks such as creating new projects, updating project information, and retrieving project details to display on the views. <br>
+    **DonationController:** Handles user interactions related to donations, including accepting donation details from the view, updating the donation model, and processing the transaction using the transaction model. <br>
+    **ViewController:** Controls the navigation between different views based on user actions, such as selecting a project, making a donation, or viewing project details.
 
