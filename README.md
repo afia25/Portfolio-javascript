@@ -42,6 +42,8 @@ MVC design pattern is a software architecture pattern that separates an applicat
     **DonationController:** Handles user interactions related to donations, including accepting donation details from the view, updating the donation model, and processing the transaction using the transaction model. <br>
     **ViewController:** Controls the navigation between different views based on user actions, such as selecting a project, making a donation, or viewing project details.
 
+<img src="./img/1a.png" width="500" height="300">
+
 ![App Screenshot](./img/1a.png)
 
 
